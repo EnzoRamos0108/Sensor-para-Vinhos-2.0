@@ -12,7 +12,7 @@
 #define LED_VERDE 8
 #define LED_AMARELO 9
 #define LED_VERMELHO 10
-#define BUZZER 11
+#define BUZZER 11 //MUDE PARA O 22 caso vá fazer no Wokwi
 #define UTC_OFFSET -3
  
 LiquidCrystal_I2C lcd(0x27, 16, 2);
