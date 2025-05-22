@@ -6,7 +6,7 @@
  
 #define LDR_PIN A0
 #define DHTPIN 2
-#define DHTTYPE DHT22
+#define DHTTYPE DHT11
 #define BUTTON_NEXT 7
 #define BUTTON_SELECT 4
 #define LED_VERDE 8
