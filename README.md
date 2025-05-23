@@ -102,7 +102,7 @@ O sistema funciona da seguinte forma:
 
 ### 📸 Simulação no Wokwi:
 
-🔗 *[https://wokwi.com/projects/431432175646746625]*
+🔗 *[https://youtu.be/ykm4L_7e5WI?si=XMpc8vxqnntVoopi]*
 
 ---
 
