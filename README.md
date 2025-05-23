@@ -98,7 +98,7 @@ O sistema funciona da seguinte forma:
 
 ### 📽️ Vídeo da implementação:
 
-🔗 *[Adicione aqui o link do vídeo]*
+🔗 *[https://youtu.be/ykm4L_7e5WI?si=XMpc8vxqnntVoopi]*
 
 ### 📸 Simulação no Wokwi:
 
